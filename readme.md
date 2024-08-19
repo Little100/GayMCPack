@@ -11,6 +11,7 @@
 - 下载请前往release页面下载
 - 部分模组的贴图被修改 是因为我之前的服务器项目(及下面的GayMCServer)的需要 如果不希望使用 请手动删除对应贴图
 ## 示例图片
+- 我有点懒 所以就出一张图片 剩下的自己用着看
 ![armour](https://github.com/Little100/GayMCPack/blob/main/Sample%20image/armour.png)
 ## 更新日志
 author: Little_100
