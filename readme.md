@@ -4,7 +4,7 @@
 - 如果此材质包让你觉得不适,请不要使用
 - 如果你有问题或者更好的建议请转到issues
 ## GayMCPack
-- 一个来自普通Minecraft玩家所作的材质包
+- 一个来自普通Minecraft玩家所作的材质包 建议使用[此整合包](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/all?page=1&pageSize=20)
 - [拥有扩展(点我跳转)](https://github.com/Little100/GayMCPack_Extend)
 - created by Little100
 - 下载请前往release页面下载
