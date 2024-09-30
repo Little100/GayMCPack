@@ -115,6 +115,6 @@ author: Little_100
 - Version 6.4.0:
   - 修改日期 2024 09 16
   - 更新了鼠标指针对应方块边缘以及hitbox的颜色
--  Version 6.4.1
+- Version 6.4.1
   - 修改日期 2024 10 01
   - 更新了Lang文件
