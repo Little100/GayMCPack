@@ -13,8 +13,8 @@
 - 我有点懒 所以就出一张图片 剩下的自己用着看
 ![armour](https://github.com/Little100/GayMCPack/blob/main/Sample%20image/armour.png)
 ## 更新日志
- > - 注意 原版**群狼聚首**的成就中```水```是我的对象
-author: Little_100
+ > - 注意 原版**群狼聚首**的成就中```水```是我的对象[已经不是了]
+- author: Little_100
 
 - 部分来自b站的某些up主的模型 但名字我都不大记得
 - 一个是娘化生物
